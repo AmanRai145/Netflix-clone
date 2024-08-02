@@ -13,8 +13,7 @@ This project is a clone of Netflix, designed to mimic the appearance and functio
 
 ## Technologies Used
 
-- **React:** A JavaScript library for building user interfaces.
-- **Vite:** A fast development build tool for modern web projects.
+
 - **GSAP:** A powerful JavaScript library for creating animations.
 - **CSS:** Custom styling to replicate the Netflix look and feel.
 - **Firebase:** For user authentication and database.
@@ -22,45 +21,6 @@ This project is a clone of Netflix, designed to mimic the appearance and functio
 ## Getting Started
 
 To get a local copy of the project up and running, follow these steps:
-
-### Prerequisites
-
-Make sure you have the following installed:
-
-- Node.js
-- npm (or yarn)
-
-### Installation
-
-1. **Clone the repo:**
-
-   ```bash
-   git clone https://github.com/your-username/netflix-clone.git
-   cd netflix-clone
-   ```
-
-2. **Install dependencies:**
-
-   ```bash
-   npm install
-   ```
-
-3. **Create a `.env` file:**
-
-   ```env
-   REACT_APP_API_KEY=your_api_key
-   REACT_APP_FIREBASE_API_KEY=your_firebase_api_key
-   REACT_APP_FIREBASE_AUTH_DOMAIN=your_firebase_auth_domain
-   REACT_APP_FIREBASE_PROJECT_ID=your_firebase_project_id
-   ```
-
-4. **Run the app:**
-
-   ```bash
-   npm run dev
-   ```
-
-   Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Usage
 
