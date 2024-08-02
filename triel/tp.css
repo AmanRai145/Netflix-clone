@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+
+
+.main{
+    background: url('../triel/backg.jfif') center/cover no-repeat;
+    height: 80vh;
+    width: 100vw;
+
+}
+.pl{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    flex-direction: column;
+    font-size: 40px;
+    color: red;
+    position: relative;
+    top: 35vw;
+}
+
+.tc{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+    
+}
