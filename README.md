@@ -48,5 +48,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - Thanks to all the open-source contributors whose libraries were used in this project.
 
 ---
-
-Feel free to modify any sections to better fit your project!
