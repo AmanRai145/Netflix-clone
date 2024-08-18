@@ -38,10 +38,6 @@ Contributions are welcome! If you have any suggestions or improvements, please o
 4. **Push to the Branch:** (`git push origin feature/AmazingFeature`)
 5. **Open a Pull Request**
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ## Acknowledgments
 
 - Thanks to Netflix for the inspiration.
